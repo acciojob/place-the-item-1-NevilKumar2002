@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.holder{
+	flex-wrap:wrap;
+	justify-content:space-between;
+	align-items:center;
+	display:flex;
+}
+.flex1{
+	width:100px;
+	height:100px;
+	background-color:green;
+	font-size:50px;
+}
+.flex2{
+	width:100px;
+	height:100px;
+	background-color:red;
+	font-size:50px;
+	
+}
+.flex3{
+	width:100px;
+	height:100px;
+	background-color:blue;
+	font-size:50px;
+}
